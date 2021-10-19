@@ -8,7 +8,7 @@ Este repositorio contiene las imágenes del SFEW, que es el dataset "in the wild
 
 El repositorio está formado por las carpetas data, image, audio y combination.
 
-* Data: Esta carpeta contiene las imágenes del dataset SFEW
+* data.zip: Esta carpeta contiene las imágenes del dataset SFEW
 * Image: En esta carpeta se pueden encontrar los cuadernos de python y scripts de python utilizados para las pruebas de las imágenes: las pruebas hechas con el dataset FACES, la comparación, los entrenamientos y pruebas hechas con el SFEW y el script de python utilizado para calcular las predicciones de los vídeos.
 * Audio: Esta carpeta contiene los cuadernos de python con las pruebas realizadas con las 2 configuraciones testeadas:
     * Configuración 1: Modelos entrenados a partir de los datos de los espectrogramas
